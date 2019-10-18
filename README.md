@@ -1,1 +1,1 @@
-# g-code
+# 通过canvas 生成验证码
